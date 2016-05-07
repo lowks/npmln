@@ -13,6 +13,7 @@ setup(
 	name='npmln',
 	author='S-YOU',
 	author_email='S-YOU@users.noreply.github.com',
+	description='Symlink NPM Modules',
 	version=npmln.__version__,
 	url='https://github.com/S-YOU/npmln',
 	download_url='https://github.com/S-YOU/npmln/tarball/master',
